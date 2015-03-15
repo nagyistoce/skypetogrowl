@@ -1,0 +1,1 @@
+With this project you can forward your Skype notifications to Growl on Windows. This in turn can be forwarded onto Prowl so you can view your Skype notifications on your iPhone.
